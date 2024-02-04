@@ -8,6 +8,9 @@
 - written in Swift utiliazing SwiftUI
 - Make this the best, learning experince possible!
 
+## Support the jounery 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G2TGT2Q)
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
