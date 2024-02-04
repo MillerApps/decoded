@@ -4,6 +4,10 @@
 - The hope is to make something I can be proud of and hopefully provide some value to someone else!
 - Once this project is up and running, contributions are welcome, and any tips or advice will be appreciated!
 
+## Plan
+- written in Swift utiliazing SwiftUI
+- Make this the best, learning experince possible!
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
