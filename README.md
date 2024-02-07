@@ -8,6 +8,11 @@
 - written in Swift utiliazing SwiftUI
 - Make this the best, learning experince possible!
 
+## Timeline 
+- Start around March of this year (2024)
+- Test once MVP is complete
+- Tweak/refine code & UI/UX polish
+
 ## Support the jounery 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G2TGT2Q)
 
